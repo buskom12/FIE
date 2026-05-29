@@ -1,0 +1,11 @@
+# Hermes Telegram Bot Requirements
+# Для управления FIE проектом через Telegram
+
+# Telegram Bot API
+python-telegram-bot==20.7
+
+# HTTP requests для GitHub API
+requests==2.31.0
+
+# Environment variables
+python-dotenv==1.0.0
