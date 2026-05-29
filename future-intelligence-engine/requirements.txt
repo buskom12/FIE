@@ -1,0 +1,14 @@
+langchain
+langgraph
+openai
+psycopg2-binary
+sqlalchemy
+pydantic
+fastapi
+uvicorn
+streamlit
+feedparser
+ollama
+qdrant-client
+python-dotenv
+redis

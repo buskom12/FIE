@@ -1,0 +1,19 @@
+version: "3"
+
+services:
+  postgres:
+    image: postgres:15
+    container_name: fie_postgres
+    restart: always
+    environment:
+      POSTGRES_USER: fie
+      POSTGRES_PASSWORD: fiepass
+      POSTGRES_DB: fie_db
+    ports:
+      - "5432:5432"
+
+  qdrant:
+    image: qdrant/qdrant
+    container_name: fie_qdrant
+    ports:
+      - "6333:6333"
