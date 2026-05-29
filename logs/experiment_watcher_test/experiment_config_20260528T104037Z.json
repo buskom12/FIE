@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-05-28T10:40:37.124933",
+  "db": "db/fie_prod.sqlite",
+  "cut_id": 8682,
+  "gate_min": 0.1,
+  "gate_max": 0.3,
+  "poll": 10,
+  "baseline": true,
+  "output_dir": "logs/experiment_watcher_test",
+  "env": {
+    "FIE_EXIT_TIMEOUT_MULTIPLIER": null,
+    "FIE_EXIT_TIMEOUT_GATE_MIN": null,
+    "FIE_EXIT_TIMEOUT_GATE_MAX": null,
+    "FIE_MARKET_GATE_ENABLED": null,
+    "FIE_MARKET_GATE_WARMUP_MIN": null,
+    "FIE_MARKET_GATE_PEAK_MIN": null,
+    "FIE_LF_SKIP_ENABLED": null,
+    "FIE_SKIP_LF_PAIRS": null,
+    "FIE_EDGE_ENTER_LOG": null,
+    "FIE_DEBUG_EDGE_PIPELINE": null,
+    "FIE_VARIANCE_MIN": null,
+    "FIE_VARIANCE_WARMUP": null,
+    "FIE_HOLD_STEPS": null,
+    "FIE_TP_PCT": null,
+    "FIE_SL_PCT": null
+  }
+}

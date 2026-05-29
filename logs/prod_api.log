@@ -1,0 +1,13 @@
+INFO:     Started server process [85891]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8001 (Press CTRL+C to quit)
+INFO:     127.0.0.1:55048 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55204 - "GET /risk_status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55209 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55214 - "GET /current_signal HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55287 - "GET /risk_status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55289 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55291 - "GET /current_signal HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55438 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55438 - "GET /openapi.json HTTP/1.1" 200 OK

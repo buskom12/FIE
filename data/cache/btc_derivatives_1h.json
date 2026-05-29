@@ -1,0 +1,4468 @@
+[
+  {
+    "timestamp": 1773792000000,
+    "funding_rate": -6.569e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1773820800000,
+    "funding_rate": -4.813e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1773849600000,
+    "funding_rate": 2.418e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1773878400000,
+    "funding_rate": -9.74e-06,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1773907200000,
+    "funding_rate": -3.012e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1773936000000,
+    "funding_rate": 1.205e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1773964800000,
+    "funding_rate": 6.25e-06,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1773993600000,
+    "funding_rate": 7.53e-06,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774022400000,
+    "funding_rate": -2.23e-06,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774051200000,
+    "funding_rate": -1.493e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774080000000,
+    "funding_rate": -7.38e-06,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774108800000,
+    "funding_rate": 1.093e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774137600000,
+    "funding_rate": 8.06e-06,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774166400000,
+    "funding_rate": -4.425e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774195200000,
+    "funding_rate": -6.837e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774224000000,
+    "funding_rate": -2.079e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774252800000,
+    "funding_rate": -2.863e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774281600000,
+    "funding_rate": 1.6e-06,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774310400000,
+    "funding_rate": 4.229e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774339200000,
+    "funding_rate": 3.675e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774368000000,
+    "funding_rate": 3.056e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774396800000,
+    "funding_rate": 2.31e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774425600000,
+    "funding_rate": 1.074e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774454400000,
+    "funding_rate": 4.721e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774483200000,
+    "funding_rate": 2.448e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774512000000,
+    "funding_rate": 1.379e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774540800000,
+    "funding_rate": -2.103e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774569600000,
+    "funding_rate": 2.925e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774598400000,
+    "funding_rate": -6.298e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774627200000,
+    "funding_rate": -5.841e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774656000000,
+    "funding_rate": -8.088e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774684800000,
+    "funding_rate": -7.604e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774713600000,
+    "funding_rate": -1.73e-06,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774742400000,
+    "funding_rate": -3.68e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774771200000,
+    "funding_rate": -1.2e-07,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774800000000,
+    "funding_rate": 2.677e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774828800000,
+    "funding_rate": 3e-06,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774857600000,
+    "funding_rate": 4.92e-06,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774886400000,
+    "funding_rate": 7.58e-06,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774915200000,
+    "funding_rate": 1.16e-06,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774944000000,
+    "funding_rate": -1.921e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1774972800000,
+    "funding_rate": -2.763e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775001600000,
+    "funding_rate": -3.449e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775030400000,
+    "funding_rate": -4.61e-06,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775059200000,
+    "funding_rate": 5.77e-06,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775088000000,
+    "funding_rate": 3.521e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775116800000,
+    "funding_rate": 8.45e-06,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775145600000,
+    "funding_rate": -7.398e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775174400000,
+    "funding_rate": -8.31e-06,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775203200000,
+    "funding_rate": -5.99e-06,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775232000000,
+    "funding_rate": 3.51e-06,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775260800000,
+    "funding_rate": 3.761e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775289600000,
+    "funding_rate": 4.115e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775318400000,
+    "funding_rate": 1.651e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775347200000,
+    "funding_rate": 2.407e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775376000000,
+    "funding_rate": 3.812e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775404800000,
+    "funding_rate": 1.889e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775433600000,
+    "funding_rate": 7.073e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775462400000,
+    "funding_rate": 5.544e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775491200000,
+    "funding_rate": 4.23e-06,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775520000000,
+    "funding_rate": -3.15e-06,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775548800000,
+    "funding_rate": 3.703e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775577600000,
+    "funding_rate": 7.393e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775606400000,
+    "funding_rate": 6.02e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775635200000,
+    "funding_rate": 1.563e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775664000000,
+    "funding_rate": 4.048e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775692800000,
+    "funding_rate": -1.47e-06,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775721600000,
+    "funding_rate": 5.239e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775750400000,
+    "funding_rate": -1.986e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775779200000,
+    "funding_rate": 4.11e-06,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775808000000,
+    "funding_rate": 2.458e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775836800000,
+    "funding_rate": -2.187e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775865600000,
+    "funding_rate": -7.225e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775894400000,
+    "funding_rate": -6.083e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775923200000,
+    "funding_rate": -6.755e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775952000000,
+    "funding_rate": -8.108e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1775980800000,
+    "funding_rate": -3.69e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776009600000,
+    "funding_rate": -3.35e-06,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776038400000,
+    "funding_rate": -2.34e-06,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776067200000,
+    "funding_rate": -1.83e-06,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776096000000,
+    "funding_rate": -5.409e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776124800000,
+    "funding_rate": -5.854e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776153600000,
+    "funding_rate": 2.732e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776182400000,
+    "funding_rate": -5.234e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776211200000,
+    "funding_rate": -9.313e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776240000000,
+    "funding_rate": -5.085e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776268800000,
+    "funding_rate": -7.151e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776297600000,
+    "funding_rate": -3.418e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776326400000,
+    "funding_rate": -2.841e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776355200000,
+    "funding_rate": -2.225e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776384000000,
+    "funding_rate": 3.297e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776412800000,
+    "funding_rate": 2.781e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776441600000,
+    "funding_rate": -0.00010789,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776470400000,
+    "funding_rate": -8.098e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776499200000,
+    "funding_rate": -7.082e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776528000000,
+    "funding_rate": -4.586e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776556800000,
+    "funding_rate": -8.395e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776585600000,
+    "funding_rate": -7.219e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776614400000,
+    "funding_rate": -0.00012276,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776643200000,
+    "funding_rate": -4.615e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776672000000,
+    "funding_rate": -4.778e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776700800000,
+    "funding_rate": -2.745e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776729600000,
+    "funding_rate": -7.937e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776758400000,
+    "funding_rate": -5.824e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776787200000,
+    "funding_rate": -4.242e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776816000000,
+    "funding_rate": -2.237e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776844800000,
+    "funding_rate": 3.56e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776873600000,
+    "funding_rate": -7.49e-06,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776902400000,
+    "funding_rate": -7.87e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776931200000,
+    "funding_rate": -3.553e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776960000000,
+    "funding_rate": -6.696e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1776988800000,
+    "funding_rate": -3.829e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777017600000,
+    "funding_rate": -7.865e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777046400000,
+    "funding_rate": -3.152e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777075200000,
+    "funding_rate": -1.077e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777104000000,
+    "funding_rate": -6.235e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777132800000,
+    "funding_rate": -5.699e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777161600000,
+    "funding_rate": 2.41e-06,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777190400000,
+    "funding_rate": 1.53e-06,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777219200000,
+    "funding_rate": 1.95e-06,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777248000000,
+    "funding_rate": 2.49e-06,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777276800000,
+    "funding_rate": -8.659e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777305600000,
+    "funding_rate": -5.678e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777334400000,
+    "funding_rate": -3.951e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777363200000,
+    "funding_rate": -3.204e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777392000000,
+    "funding_rate": 5.242e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777420800000,
+    "funding_rate": 1.305e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777449600000,
+    "funding_rate": -2.84e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777478400000,
+    "funding_rate": 3.571e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777507200000,
+    "funding_rate": -4.22e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777536000000,
+    "funding_rate": -1.837e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777564800000,
+    "funding_rate": -2.904e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777593600000,
+    "funding_rate": -3.746e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777622400000,
+    "funding_rate": -1.81e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777651200000,
+    "funding_rate": -3.143e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777680000000,
+    "funding_rate": -8.22e-06,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777708800000,
+    "funding_rate": -5.103e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777737600000,
+    "funding_rate": -2.54e-05,
+    "open_interest": null,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777744800000,
+    "funding_rate": null,
+    "open_interest": 7986940439.90137,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777748400000,
+    "funding_rate": null,
+    "open_interest": 7996175105.0127,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777752000000,
+    "funding_rate": null,
+    "open_interest": 8001354333.3768,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777755600000,
+    "funding_rate": null,
+    "open_interest": 8000766459.8193,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777759200000,
+    "funding_rate": null,
+    "open_interest": 8021823841.2382,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777762800000,
+    "funding_rate": null,
+    "open_interest": 8039427494.673833,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777766400000,
+    "funding_rate": 2.29e-05,
+    "open_interest": 8029811346.924078,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777770000000,
+    "funding_rate": null,
+    "open_interest": 8051747773.9834,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777773600000,
+    "funding_rate": null,
+    "open_interest": 8009531204.764585,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777777200000,
+    "funding_rate": null,
+    "open_interest": 8039872307.919543,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777780800000,
+    "funding_rate": null,
+    "open_interest": 8040789326.812489,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777784400000,
+    "funding_rate": null,
+    "open_interest": 8042292906.2886,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777788000000,
+    "funding_rate": null,
+    "open_interest": 8055430121.619527,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777791600000,
+    "funding_rate": null,
+    "open_interest": 8058546975.558,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777795200000,
+    "funding_rate": -1.398e-05,
+    "open_interest": 8065413083.3415,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777798800000,
+    "funding_rate": null,
+    "open_interest": 8075483773.779003,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777802400000,
+    "funding_rate": null,
+    "open_interest": 8093951144.531029,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777806000000,
+    "funding_rate": null,
+    "open_interest": 8082082931.4536,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777809600000,
+    "funding_rate": null,
+    "open_interest": 8104796425.893,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777813200000,
+    "funding_rate": null,
+    "open_interest": 8119498551.391012,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777816800000,
+    "funding_rate": null,
+    "open_interest": 8131683601.4601,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777820400000,
+    "funding_rate": null,
+    "open_interest": 8147454635.664312,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777824000000,
+    "funding_rate": 7.03e-06,
+    "open_interest": 8143821244.070735,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777827600000,
+    "funding_rate": null,
+    "open_interest": 8148587128.856623,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777831200000,
+    "funding_rate": null,
+    "open_interest": 8155129621.4204,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777834800000,
+    "funding_rate": null,
+    "open_interest": 8153297932.710252,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777838400000,
+    "funding_rate": null,
+    "open_interest": 8149147827.7216,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777842000000,
+    "funding_rate": null,
+    "open_interest": 8158895398.642471,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777845600000,
+    "funding_rate": null,
+    "open_interest": 8134255609.010047,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777849200000,
+    "funding_rate": null,
+    "open_interest": 8232310735.927826,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777852800000,
+    "funding_rate": 4.304e-05,
+    "open_interest": 8119065512.7147,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777856400000,
+    "funding_rate": null,
+    "open_interest": 8071676274.298008,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777860000000,
+    "funding_rate": null,
+    "open_interest": 8291481823.484978,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777863600000,
+    "funding_rate": null,
+    "open_interest": 8590105820.575523,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777867200000,
+    "funding_rate": null,
+    "open_interest": 8686759598.99494,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777870800000,
+    "funding_rate": null,
+    "open_interest": 8735048535.10331,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777874400000,
+    "funding_rate": null,
+    "open_interest": 8723789368.493284,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777878000000,
+    "funding_rate": null,
+    "open_interest": 8618282416.2024,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777881600000,
+    "funding_rate": -1.58e-06,
+    "open_interest": 8607399067.767548,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777885200000,
+    "funding_rate": null,
+    "open_interest": 8611110228.321146,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777888800000,
+    "funding_rate": null,
+    "open_interest": 8622064665.37078,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777892400000,
+    "funding_rate": null,
+    "open_interest": 7914696098.337954,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777896000000,
+    "funding_rate": null,
+    "open_interest": 7967711947.293,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777899600000,
+    "funding_rate": null,
+    "open_interest": 7944422243.062434,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777903200000,
+    "funding_rate": null,
+    "open_interest": 7996349112.228946,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777906800000,
+    "funding_rate": null,
+    "open_interest": 8460086946.6322775,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777910400000,
+    "funding_rate": -3.16e-05,
+    "open_interest": 8584470415.2636,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777914000000,
+    "funding_rate": null,
+    "open_interest": 8646088800.031286,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777917600000,
+    "funding_rate": null,
+    "open_interest": 8734789725.6065,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777921200000,
+    "funding_rate": null,
+    "open_interest": 8764321940.253,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777924800000,
+    "funding_rate": null,
+    "open_interest": 8728435684.2373,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777928400000,
+    "funding_rate": null,
+    "open_interest": 8701438582.345781,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777932000000,
+    "funding_rate": null,
+    "open_interest": 8730663220.539,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777935600000,
+    "funding_rate": null,
+    "open_interest": 8707543292.95607,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777939200000,
+    "funding_rate": -3.83e-06,
+    "open_interest": 8675908060.2405,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777942800000,
+    "funding_rate": null,
+    "open_interest": 8696582457.5991,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777946400000,
+    "funding_rate": null,
+    "open_interest": 8736953205.746698,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777950000000,
+    "funding_rate": null,
+    "open_interest": 8840845175.6094,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777953600000,
+    "funding_rate": null,
+    "open_interest": 9010395422.088,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777957200000,
+    "funding_rate": null,
+    "open_interest": 9062298358.896711,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777960800000,
+    "funding_rate": null,
+    "open_interest": 8999810187.6522,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777964400000,
+    "funding_rate": null,
+    "open_interest": 9013941832.716194,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777968000000,
+    "funding_rate": -4.626e-05,
+    "open_interest": 8980584209.279009,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777971600000,
+    "funding_rate": null,
+    "open_interest": 9040733721.5868,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777975200000,
+    "funding_rate": null,
+    "open_interest": 9000374920.089922,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777978800000,
+    "funding_rate": null,
+    "open_interest": 9020336810.8201,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777982400000,
+    "funding_rate": null,
+    "open_interest": 9199431974.9478,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777986000000,
+    "funding_rate": null,
+    "open_interest": 9290573588.502012,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777989600000,
+    "funding_rate": null,
+    "open_interest": 9272453441.871965,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777993200000,
+    "funding_rate": null,
+    "open_interest": 9285390287.1088,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1777996800000,
+    "funding_rate": -8.24e-05,
+    "open_interest": 9378267891.12365,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778000400000,
+    "funding_rate": null,
+    "open_interest": 9288743581.6591,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778004000000,
+    "funding_rate": null,
+    "open_interest": 9279241327.338,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778007600000,
+    "funding_rate": null,
+    "open_interest": 9313494766.040718,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778011200000,
+    "funding_rate": null,
+    "open_interest": 9287239431.1452,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778014800000,
+    "funding_rate": null,
+    "open_interest": 9246665389.392,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778018400000,
+    "funding_rate": null,
+    "open_interest": 9177346218.1118,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778022000000,
+    "funding_rate": null,
+    "open_interest": 9217865732.67375,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778025600000,
+    "funding_rate": -9.153e-05,
+    "open_interest": 9157591576.763,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778029200000,
+    "funding_rate": null,
+    "open_interest": 9218660469.538359,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778032800000,
+    "funding_rate": null,
+    "open_interest": 9273143381.44638,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778036400000,
+    "funding_rate": null,
+    "open_interest": 9268738710.516,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778040000000,
+    "funding_rate": null,
+    "open_interest": 9303064522.752,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778043600000,
+    "funding_rate": null,
+    "open_interest": 9281623073.462627,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778047200000,
+    "funding_rate": null,
+    "open_interest": 9250497380.606337,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778050800000,
+    "funding_rate": null,
+    "open_interest": 9274143783.22015,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778054400000,
+    "funding_rate": -6.15e-05,
+    "open_interest": 9259773673.9722,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778058000000,
+    "funding_rate": null,
+    "open_interest": 9291151986.501675,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778061600000,
+    "funding_rate": null,
+    "open_interest": 9154903032.716,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778065200000,
+    "funding_rate": null,
+    "open_interest": 9134615700.28266,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778068800000,
+    "funding_rate": null,
+    "open_interest": 9127259593.4598,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778072400000,
+    "funding_rate": null,
+    "open_interest": 9011355568.164,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778076000000,
+    "funding_rate": null,
+    "open_interest": 8857126733.3026,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778079600000,
+    "funding_rate": null,
+    "open_interest": 8788089269.035458,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778083200000,
+    "funding_rate": -3.756e-05,
+    "open_interest": 8796361306.971666,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778086800000,
+    "funding_rate": null,
+    "open_interest": 8766473685.8442,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778090400000,
+    "funding_rate": null,
+    "open_interest": 8763523918.6,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778094000000,
+    "funding_rate": null,
+    "open_interest": 8729103195.9,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778097600000,
+    "funding_rate": null,
+    "open_interest": 8719104410.29634,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778101200000,
+    "funding_rate": null,
+    "open_interest": 8709120288.940577,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778104800000,
+    "funding_rate": null,
+    "open_interest": 8674679087.4018,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778108400000,
+    "funding_rate": null,
+    "open_interest": 8649280221.578798,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778112000000,
+    "funding_rate": -5.856e-05,
+    "open_interest": 8658795642.074059,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778115600000,
+    "funding_rate": null,
+    "open_interest": 8682321206.373652,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778119200000,
+    "funding_rate": null,
+    "open_interest": 8726999329.58515,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778122800000,
+    "funding_rate": null,
+    "open_interest": 8696008204.9008,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778126400000,
+    "funding_rate": null,
+    "open_interest": 8657565680.3634,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778130000000,
+    "funding_rate": null,
+    "open_interest": 8644529946.100487,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778133600000,
+    "funding_rate": null,
+    "open_interest": 8618966312.1441,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778137200000,
+    "funding_rate": null,
+    "open_interest": 8641411105.5104,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778140800000,
+    "funding_rate": -4.568e-05,
+    "open_interest": 8724007432.095333,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778144400000,
+    "funding_rate": null,
+    "open_interest": 8642199939.688913,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778148000000,
+    "funding_rate": null,
+    "open_interest": 8563331513.378313,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778151600000,
+    "funding_rate": null,
+    "open_interest": 8539374235.11443,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778155200000,
+    "funding_rate": null,
+    "open_interest": 8528411068.584,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778158800000,
+    "funding_rate": null,
+    "open_interest": 8576606191.706586,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778162400000,
+    "funding_rate": null,
+    "open_interest": 8546254505.197,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778166000000,
+    "funding_rate": null,
+    "open_interest": 8415012503.190196,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778169600000,
+    "funding_rate": -3.014e-05,
+    "open_interest": 8354081867.7096,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778173200000,
+    "funding_rate": null,
+    "open_interest": 8337241938.827739,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778176800000,
+    "funding_rate": null,
+    "open_interest": 8326821496.4136,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778180400000,
+    "funding_rate": null,
+    "open_interest": 8326125452.336856,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778184000000,
+    "funding_rate": null,
+    "open_interest": 8328806031.699,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778187600000,
+    "funding_rate": null,
+    "open_interest": 8285309242.2646,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778191200000,
+    "funding_rate": null,
+    "open_interest": 8281522437.657309,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778194800000,
+    "funding_rate": null,
+    "open_interest": 8297834480.970674,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778198400000,
+    "funding_rate": -7.406e-05,
+    "open_interest": 8308690896.8016,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778202000000,
+    "funding_rate": null,
+    "open_interest": 8309183052.388286,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778205600000,
+    "funding_rate": null,
+    "open_interest": 8297500639.6702,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778209200000,
+    "funding_rate": null,
+    "open_interest": 8266554117.688602,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778212800000,
+    "funding_rate": null,
+    "open_interest": 8235250861.21454,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778216400000,
+    "funding_rate": null,
+    "open_interest": 8244505173.3288965,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778220000000,
+    "funding_rate": null,
+    "open_interest": 8250655971.976,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778223600000,
+    "funding_rate": null,
+    "open_interest": 8233001870.923699,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778227200000,
+    "funding_rate": 2.415e-05,
+    "open_interest": 8218910403.754766,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778230800000,
+    "funding_rate": null,
+    "open_interest": 8231522755.9152,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778234400000,
+    "funding_rate": null,
+    "open_interest": 8216230569.333862,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778238000000,
+    "funding_rate": null,
+    "open_interest": 8262675476.756033,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778241600000,
+    "funding_rate": null,
+    "open_interest": 8270541923.5017,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778245200000,
+    "funding_rate": null,
+    "open_interest": 8238853739.7012,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778248800000,
+    "funding_rate": null,
+    "open_interest": 8155635035.3064,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778252400000,
+    "funding_rate": null,
+    "open_interest": 8172752765.801806,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778256000000,
+    "funding_rate": -1.542e-05,
+    "open_interest": 8160642381.2984,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778259600000,
+    "funding_rate": null,
+    "open_interest": 8097719160.7692,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778263200000,
+    "funding_rate": null,
+    "open_interest": 8080885859.026,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778266800000,
+    "funding_rate": null,
+    "open_interest": 8082827874.24,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778270400000,
+    "funding_rate": null,
+    "open_interest": 8101849945.916788,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778274000000,
+    "funding_rate": null,
+    "open_interest": 8085912659.462574,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778277600000,
+    "funding_rate": null,
+    "open_interest": 8089684771.418009,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778281200000,
+    "funding_rate": null,
+    "open_interest": 8084655361.96346,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778284800000,
+    "funding_rate": 1.841e-05,
+    "open_interest": 8082993139.7757,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778288400000,
+    "funding_rate": null,
+    "open_interest": 8087367609.967571,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778292000000,
+    "funding_rate": null,
+    "open_interest": 8111685879.0,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778295600000,
+    "funding_rate": null,
+    "open_interest": 8126200202.9551,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778299200000,
+    "funding_rate": null,
+    "open_interest": 8131290843.4549,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778302800000,
+    "funding_rate": null,
+    "open_interest": 8140057333.4223,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778306400000,
+    "funding_rate": null,
+    "open_interest": 8139558379.4988,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778310000000,
+    "funding_rate": null,
+    "open_interest": 8122365166.900167,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778313600000,
+    "funding_rate": -3.792e-05,
+    "open_interest": 8096168140.60496,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778317200000,
+    "funding_rate": null,
+    "open_interest": 8104097336.8014,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778320800000,
+    "funding_rate": null,
+    "open_interest": 8069895304.684912,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778324400000,
+    "funding_rate": null,
+    "open_interest": 8084239597.7152,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778328000000,
+    "funding_rate": null,
+    "open_interest": 8095879653.963469,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778331600000,
+    "funding_rate": null,
+    "open_interest": 8102024379.005131,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778335200000,
+    "funding_rate": null,
+    "open_interest": 8104004452.467944,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778338800000,
+    "funding_rate": null,
+    "open_interest": 8061382332.3984,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778342400000,
+    "funding_rate": 3.645e-05,
+    "open_interest": 8080455441.078,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778346000000,
+    "funding_rate": null,
+    "open_interest": 8067586075.10893,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778349600000,
+    "funding_rate": null,
+    "open_interest": 8104597770.590465,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778353200000,
+    "funding_rate": null,
+    "open_interest": 8121660146.480784,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778356800000,
+    "funding_rate": null,
+    "open_interest": 8122608075.776,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778360400000,
+    "funding_rate": null,
+    "open_interest": 8116543067.157,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778364000000,
+    "funding_rate": null,
+    "open_interest": 8108567666.288,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778367600000,
+    "funding_rate": null,
+    "open_interest": 8101272293.415,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778371200000,
+    "funding_rate": 9e-07,
+    "open_interest": 8081660980.53917,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778374800000,
+    "funding_rate": null,
+    "open_interest": 8082976577.9,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778378400000,
+    "funding_rate": null,
+    "open_interest": 8061795330.778,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778382000000,
+    "funding_rate": null,
+    "open_interest": 8067846150.84,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778385600000,
+    "funding_rate": null,
+    "open_interest": 8075255232.994371,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778389200000,
+    "funding_rate": null,
+    "open_interest": 8068757204.135805,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778392800000,
+    "funding_rate": null,
+    "open_interest": 8069532984.407479,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778396400000,
+    "funding_rate": null,
+    "open_interest": 8069354566.908874,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778400000000,
+    "funding_rate": 4.626e-05,
+    "open_interest": 8065664767.835595,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778403600000,
+    "funding_rate": null,
+    "open_interest": 8076594405.711,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778407200000,
+    "funding_rate": null,
+    "open_interest": 8079344936.853679,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778410800000,
+    "funding_rate": null,
+    "open_interest": 8028385445.240551,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778414400000,
+    "funding_rate": null,
+    "open_interest": 8022426378.248799,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778418000000,
+    "funding_rate": null,
+    "open_interest": 8029846815.015272,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778421600000,
+    "funding_rate": null,
+    "open_interest": 8034214905.831719,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778425200000,
+    "funding_rate": null,
+    "open_interest": 8026721901.3287,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778428800000,
+    "funding_rate": 5.764e-05,
+    "open_interest": 8109547128.379631,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778432400000,
+    "funding_rate": null,
+    "open_interest": 8149721322.797621,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778436000000,
+    "funding_rate": null,
+    "open_interest": 8166396478.6985,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778439600000,
+    "funding_rate": null,
+    "open_interest": 8158764629.205035,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778443200000,
+    "funding_rate": null,
+    "open_interest": 8183317731.342,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778446800000,
+    "funding_rate": null,
+    "open_interest": 7972657385.581365,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778450400000,
+    "funding_rate": null,
+    "open_interest": 7939534822.042974,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778454000000,
+    "funding_rate": null,
+    "open_interest": 8133459296.0,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778457600000,
+    "funding_rate": 5.798e-05,
+    "open_interest": 8256374453.7736,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778461200000,
+    "funding_rate": null,
+    "open_interest": 8061126687.6528,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778464800000,
+    "funding_rate": null,
+    "open_interest": 8023955550.800179,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778468400000,
+    "funding_rate": null,
+    "open_interest": 7942477839.0468,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778472000000,
+    "funding_rate": null,
+    "open_interest": 7775460703.469745,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778475600000,
+    "funding_rate": null,
+    "open_interest": 7773706660.1183,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778479200000,
+    "funding_rate": null,
+    "open_interest": 7770914548.0,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778482800000,
+    "funding_rate": null,
+    "open_interest": 7776665479.661653,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778486400000,
+    "funding_rate": 2.592e-05,
+    "open_interest": 7761989840.8007,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778490000000,
+    "funding_rate": null,
+    "open_interest": 7767339617.806165,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778493600000,
+    "funding_rate": null,
+    "open_interest": 7795111747.7513,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778497200000,
+    "funding_rate": null,
+    "open_interest": 7786579516.1888,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778500800000,
+    "funding_rate": null,
+    "open_interest": 7840962880.7405,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778504400000,
+    "funding_rate": null,
+    "open_interest": 7863609513.623531,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778508000000,
+    "funding_rate": null,
+    "open_interest": 7855509526.074605,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778511600000,
+    "funding_rate": null,
+    "open_interest": 7905371642.208,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778515200000,
+    "funding_rate": 4.555e-05,
+    "open_interest": 7980769586.7032,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778518800000,
+    "funding_rate": null,
+    "open_interest": 8055231614.943357,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778522400000,
+    "funding_rate": null,
+    "open_interest": 8135575050.9195,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778526000000,
+    "funding_rate": null,
+    "open_interest": 8160536142.984,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778529600000,
+    "funding_rate": null,
+    "open_interest": 8217601601.655125,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778533200000,
+    "funding_rate": null,
+    "open_interest": 8216749485.578238,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778536800000,
+    "funding_rate": null,
+    "open_interest": 8210453624.4137,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778540400000,
+    "funding_rate": null,
+    "open_interest": 8228493660.014947,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778544000000,
+    "funding_rate": -1.15e-06,
+    "open_interest": 8212936557.381255,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778547600000,
+    "funding_rate": null,
+    "open_interest": 8197538376.7459,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778551200000,
+    "funding_rate": null,
+    "open_interest": 8168358095.789649,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778554800000,
+    "funding_rate": null,
+    "open_interest": 8195111409.9548,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778558400000,
+    "funding_rate": null,
+    "open_interest": 8211021984.2071,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778562000000,
+    "funding_rate": null,
+    "open_interest": 8249850447.708156,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778565600000,
+    "funding_rate": null,
+    "open_interest": 8263686769.2384,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778569200000,
+    "funding_rate": null,
+    "open_interest": 8274691040.07,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778572800000,
+    "funding_rate": 3.877e-05,
+    "open_interest": 8206708654.553603,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778576400000,
+    "funding_rate": null,
+    "open_interest": 8212326654.023612,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778580000000,
+    "funding_rate": null,
+    "open_interest": 8200767917.384171,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778583600000,
+    "funding_rate": null,
+    "open_interest": 8171336957.994,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778587200000,
+    "funding_rate": null,
+    "open_interest": 8179043730.048,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778590800000,
+    "funding_rate": null,
+    "open_interest": 8239636880.563122,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778594400000,
+    "funding_rate": null,
+    "open_interest": 8239394898.961325,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778598000000,
+    "funding_rate": null,
+    "open_interest": 8289209028.192,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778601600000,
+    "funding_rate": 5.822e-05,
+    "open_interest": 8374863367.6727295,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778605200000,
+    "funding_rate": null,
+    "open_interest": 8408641685.642,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778608800000,
+    "funding_rate": null,
+    "open_interest": 8511975149.31719,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778612400000,
+    "funding_rate": null,
+    "open_interest": 8555428914.7001505,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778616000000,
+    "funding_rate": null,
+    "open_interest": 8566480064.922,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778619600000,
+    "funding_rate": null,
+    "open_interest": 8546430758.462311,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778623200000,
+    "funding_rate": null,
+    "open_interest": 8513027340.362,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778626800000,
+    "funding_rate": null,
+    "open_interest": 8516342827.8572,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778630400000,
+    "funding_rate": 5.367e-05,
+    "open_interest": 8487896434.25866,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778634000000,
+    "funding_rate": null,
+    "open_interest": 8494482369.419425,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778637600000,
+    "funding_rate": null,
+    "open_interest": 8514287236.547603,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778641200000,
+    "funding_rate": null,
+    "open_interest": 8541027754.263,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778644800000,
+    "funding_rate": null,
+    "open_interest": 8575156602.1282,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778648400000,
+    "funding_rate": null,
+    "open_interest": 8581966193.8631,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778652000000,
+    "funding_rate": null,
+    "open_interest": 8556749556.5952,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778655600000,
+    "funding_rate": null,
+    "open_interest": 8566946280.09668,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778659200000,
+    "funding_rate": 5.437e-05,
+    "open_interest": 8545702322.864848,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778662800000,
+    "funding_rate": null,
+    "open_interest": 8562574241.724929,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778666400000,
+    "funding_rate": null,
+    "open_interest": 8621763965.1164,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778670000000,
+    "funding_rate": null,
+    "open_interest": 8498385226.646267,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778673600000,
+    "funding_rate": null,
+    "open_interest": 8427092355.304123,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778677200000,
+    "funding_rate": null,
+    "open_interest": 8347699715.653871,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778680800000,
+    "funding_rate": null,
+    "open_interest": 8275931489.573917,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778684400000,
+    "funding_rate": null,
+    "open_interest": 8288724178.6496,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778688000000,
+    "funding_rate": 1.749e-05,
+    "open_interest": 8179885154.912559,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778691600000,
+    "funding_rate": null,
+    "open_interest": 8278535842.633,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778695200000,
+    "funding_rate": null,
+    "open_interest": 8344448082.557545,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778698800000,
+    "funding_rate": null,
+    "open_interest": 8311016514.2515,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778702400000,
+    "funding_rate": null,
+    "open_interest": 8307110481.235396,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778706000000,
+    "funding_rate": null,
+    "open_interest": 8319212373.2331,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778709600000,
+    "funding_rate": null,
+    "open_interest": 8259008062.8207,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778713200000,
+    "funding_rate": null,
+    "open_interest": 8262305056.834388,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778716800000,
+    "funding_rate": 3.928e-05,
+    "open_interest": 8269001740.5372,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778720400000,
+    "funding_rate": null,
+    "open_interest": 8291733175.695798,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778724000000,
+    "funding_rate": null,
+    "open_interest": 8289092340.095285,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778727600000,
+    "funding_rate": null,
+    "open_interest": 8271421638.3316,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778731200000,
+    "funding_rate": null,
+    "open_interest": 8223338687.675625,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778734800000,
+    "funding_rate": null,
+    "open_interest": 8269991631.714862,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778738400000,
+    "funding_rate": null,
+    "open_interest": 8284322884.31301,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778742000000,
+    "funding_rate": null,
+    "open_interest": 8278430935.9616,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778745600000,
+    "funding_rate": 2.928e-05,
+    "open_interest": 8282008094.9088,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778749200000,
+    "funding_rate": null,
+    "open_interest": 8309314790.2344,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778752800000,
+    "funding_rate": null,
+    "open_interest": 8283347739.0288,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778756400000,
+    "funding_rate": null,
+    "open_interest": 8273078124.0848,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778760000000,
+    "funding_rate": null,
+    "open_interest": 8242743574.9176,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778763600000,
+    "funding_rate": null,
+    "open_interest": 8257578134.375775,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778767200000,
+    "funding_rate": null,
+    "open_interest": 8372456117.5255,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778770800000,
+    "funding_rate": null,
+    "open_interest": 8560201825.3152,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778774400000,
+    "funding_rate": 4.094e-05,
+    "open_interest": 8726043634.623547,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778778000000,
+    "funding_rate": null,
+    "open_interest": 8915458990.870754,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778781600000,
+    "funding_rate": null,
+    "open_interest": 8980840881.2421,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778785200000,
+    "funding_rate": null,
+    "open_interest": 9016786781.246357,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778788800000,
+    "funding_rate": null,
+    "open_interest": 9008504187.1146,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778792400000,
+    "funding_rate": null,
+    "open_interest": 9002036751.192,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778796000000,
+    "funding_rate": null,
+    "open_interest": 8996553825.817764,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778799600000,
+    "funding_rate": null,
+    "open_interest": 9004664632.015244,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778803200000,
+    "funding_rate": -4.239e-05,
+    "open_interest": 8952198019.656994,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778806800000,
+    "funding_rate": null,
+    "open_interest": 9024478658.407,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778810400000,
+    "funding_rate": null,
+    "open_interest": 8986863576.302155,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778814000000,
+    "funding_rate": null,
+    "open_interest": 8959422868.6968,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778817600000,
+    "funding_rate": null,
+    "open_interest": 8904338986.3824,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778821200000,
+    "funding_rate": null,
+    "open_interest": 8868391047.8918,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778824800000,
+    "funding_rate": null,
+    "open_interest": 8701476036.255554,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778828400000,
+    "funding_rate": null,
+    "open_interest": 8710997412.4984,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778832000000,
+    "funding_rate": -1.893e-05,
+    "open_interest": 8719121723.627647,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778835600000,
+    "funding_rate": null,
+    "open_interest": 8700453108.3768,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778839200000,
+    "funding_rate": null,
+    "open_interest": 8682187084.849272,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778842800000,
+    "funding_rate": null,
+    "open_interest": 8696165064.2811,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778846400000,
+    "funding_rate": null,
+    "open_interest": 8686195353.2361,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778850000000,
+    "funding_rate": null,
+    "open_interest": 8557951582.6947,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778853600000,
+    "funding_rate": null,
+    "open_interest": 8102963663.8086,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778857200000,
+    "funding_rate": null,
+    "open_interest": 8102054249.635115,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778860800000,
+    "funding_rate": 1.548e-05,
+    "open_interest": 8102660386.418,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778864400000,
+    "funding_rate": null,
+    "open_interest": 8111048150.6314,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778868000000,
+    "funding_rate": null,
+    "open_interest": 8120082886.8478,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778871600000,
+    "funding_rate": null,
+    "open_interest": 8096496608.505892,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778875200000,
+    "funding_rate": null,
+    "open_interest": 8073819090.594,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778878800000,
+    "funding_rate": null,
+    "open_interest": 8070046883.973173,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778882400000,
+    "funding_rate": null,
+    "open_interest": 8048987508.1861,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778886000000,
+    "funding_rate": null,
+    "open_interest": 8061660282.9963,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778889600000,
+    "funding_rate": 3.938e-05,
+    "open_interest": 8055883721.0873,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778893200000,
+    "funding_rate": null,
+    "open_interest": 8038798237.471222,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778896800000,
+    "funding_rate": null,
+    "open_interest": 8049686961.192091,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778900400000,
+    "funding_rate": null,
+    "open_interest": 8062253721.032123,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778904000000,
+    "funding_rate": null,
+    "open_interest": 8061250526.189679,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778907600000,
+    "funding_rate": null,
+    "open_interest": 8062398255.754996,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778911200000,
+    "funding_rate": null,
+    "open_interest": 8071846944.87,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778914800000,
+    "funding_rate": null,
+    "open_interest": 7984310744.0862,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778918400000,
+    "funding_rate": -2.1e-06,
+    "open_interest": 7920030918.679,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778922000000,
+    "funding_rate": null,
+    "open_interest": 7942414447.892023,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778925600000,
+    "funding_rate": null,
+    "open_interest": 7878770743.332629,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778929200000,
+    "funding_rate": null,
+    "open_interest": 7881604248.336,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778932800000,
+    "funding_rate": null,
+    "open_interest": 7889775527.07,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778936400000,
+    "funding_rate": null,
+    "open_interest": 7894233714.36,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778940000000,
+    "funding_rate": null,
+    "open_interest": 7922493648.4694,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778943600000,
+    "funding_rate": null,
+    "open_interest": 7944222549.334405,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778947200000,
+    "funding_rate": 4.955e-05,
+    "open_interest": 7970258382.5973,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778950800000,
+    "funding_rate": null,
+    "open_interest": 7963521964.575,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778954400000,
+    "funding_rate": null,
+    "open_interest": 7963849747.879179,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778958000000,
+    "funding_rate": null,
+    "open_interest": 7966960869.0,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778961600000,
+    "funding_rate": null,
+    "open_interest": 7971544881.021619,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778965200000,
+    "funding_rate": null,
+    "open_interest": 7972830347.461793,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778968800000,
+    "funding_rate": null,
+    "open_interest": 7971312037.713253,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778972400000,
+    "funding_rate": null,
+    "open_interest": 7967147345.7205,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778976000000,
+    "funding_rate": 4.037e-05,
+    "open_interest": 7958085954.343924,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778979600000,
+    "funding_rate": null,
+    "open_interest": 7971541191.576,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778983200000,
+    "funding_rate": null,
+    "open_interest": 7974557968.539007,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778986800000,
+    "funding_rate": null,
+    "open_interest": 7991761125.402551,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778990400000,
+    "funding_rate": null,
+    "open_interest": 7996181982.545348,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778994000000,
+    "funding_rate": null,
+    "open_interest": 8004393713.561148,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1778997600000,
+    "funding_rate": null,
+    "open_interest": 8002457792.460524,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779001200000,
+    "funding_rate": null,
+    "open_interest": 7997929342.9035,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779004800000,
+    "funding_rate": 1.176e-05,
+    "open_interest": 8002179598.40485,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779008400000,
+    "funding_rate": null,
+    "open_interest": 7999225564.193289,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779012000000,
+    "funding_rate": null,
+    "open_interest": 8004586068.8103,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779015600000,
+    "funding_rate": null,
+    "open_interest": 8009392172.321929,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779019200000,
+    "funding_rate": null,
+    "open_interest": 8001842558.318351,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779022800000,
+    "funding_rate": null,
+    "open_interest": 7996615055.667228,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779026400000,
+    "funding_rate": null,
+    "open_interest": 7979456437.875,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779030000000,
+    "funding_rate": null,
+    "open_interest": 7958861566.849133,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779033600000,
+    "funding_rate": 4.8e-07,
+    "open_interest": 7993929091.828298,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779037200000,
+    "funding_rate": null,
+    "open_interest": 8005404070.175,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779040800000,
+    "funding_rate": null,
+    "open_interest": 8002216119.205238,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779044400000,
+    "funding_rate": null,
+    "open_interest": 8027388446.227579,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779048000000,
+    "funding_rate": null,
+    "open_interest": 8032859081.702171,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779051600000,
+    "funding_rate": null,
+    "open_interest": 8013805295.509984,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779055200000,
+    "funding_rate": null,
+    "open_interest": 8022041325.632975,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779058800000,
+    "funding_rate": null,
+    "open_interest": 7992844191.961302,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779062400000,
+    "funding_rate": -1.131e-05,
+    "open_interest": 7810057721.314,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779066000000,
+    "funding_rate": null,
+    "open_interest": 7758939030.7009,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779069600000,
+    "funding_rate": null,
+    "open_interest": 7806344290.84,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779073200000,
+    "funding_rate": null,
+    "open_interest": 7789398931.3236,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779076800000,
+    "funding_rate": null,
+    "open_interest": 7799330421.8,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779080400000,
+    "funding_rate": null,
+    "open_interest": 7827062730.536805,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779084000000,
+    "funding_rate": null,
+    "open_interest": 7830147533.828712,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779087600000,
+    "funding_rate": null,
+    "open_interest": 7858204655.1746,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779091200000,
+    "funding_rate": 5.778e-05,
+    "open_interest": 7875853552.0755,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779094800000,
+    "funding_rate": null,
+    "open_interest": 7878221330.161587,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779098400000,
+    "funding_rate": null,
+    "open_interest": 7882819029.443874,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779102000000,
+    "funding_rate": null,
+    "open_interest": 7877595960.349758,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779105600000,
+    "funding_rate": null,
+    "open_interest": 7905070088.9199,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779109200000,
+    "funding_rate": null,
+    "open_interest": 7971062356.414655,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779112800000,
+    "funding_rate": null,
+    "open_interest": 7932603707.3762,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779116400000,
+    "funding_rate": null,
+    "open_interest": 7962879527.6228,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779120000000,
+    "funding_rate": 7.178e-05,
+    "open_interest": 8104519338.3618,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779123600000,
+    "funding_rate": null,
+    "open_interest": 8071372882.835506,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779127200000,
+    "funding_rate": null,
+    "open_interest": 8079360838.39395,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779130800000,
+    "funding_rate": null,
+    "open_interest": 8058844146.671534,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779134400000,
+    "funding_rate": null,
+    "open_interest": 8048414204.7912,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779138000000,
+    "funding_rate": null,
+    "open_interest": 8046519926.750706,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779141600000,
+    "funding_rate": null,
+    "open_interest": 8039892369.28102,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779145200000,
+    "funding_rate": null,
+    "open_interest": 8051543609.825276,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779148800000,
+    "funding_rate": 5.164e-05,
+    "open_interest": 8039490310.0144,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779152400000,
+    "funding_rate": null,
+    "open_interest": 8061713977.257021,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779156000000,
+    "funding_rate": null,
+    "open_interest": 8021420771.919,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779159600000,
+    "funding_rate": null,
+    "open_interest": 8018549623.685924,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779163200000,
+    "funding_rate": null,
+    "open_interest": 8042240036.7477,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779166800000,
+    "funding_rate": null,
+    "open_interest": 8052880229.8127985,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779170400000,
+    "funding_rate": null,
+    "open_interest": 8044145592.1995,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779174000000,
+    "funding_rate": null,
+    "open_interest": 8057342699.28537,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779177600000,
+    "funding_rate": 4.809e-05,
+    "open_interest": 8071658485.848,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779181200000,
+    "funding_rate": null,
+    "open_interest": 8059613823.6088,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779184800000,
+    "funding_rate": null,
+    "open_interest": 8042296318.121082,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779188400000,
+    "funding_rate": null,
+    "open_interest": 8055806098.6808,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779192000000,
+    "funding_rate": null,
+    "open_interest": 8022682493.8866,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779195600000,
+    "funding_rate": null,
+    "open_interest": 8049471848.1836,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779199200000,
+    "funding_rate": null,
+    "open_interest": 8051282751.92,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779202800000,
+    "funding_rate": null,
+    "open_interest": 8128746631.0372,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779206400000,
+    "funding_rate": 5.563e-05,
+    "open_interest": 8111595313.7974,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779210000000,
+    "funding_rate": null,
+    "open_interest": 8058951261.644804,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779213600000,
+    "funding_rate": null,
+    "open_interest": 8017113873.461607,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779217200000,
+    "funding_rate": null,
+    "open_interest": 7996497159.783,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779220800000,
+    "funding_rate": null,
+    "open_interest": 7991265471.2,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779224400000,
+    "funding_rate": null,
+    "open_interest": 8009056166.684231,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779228000000,
+    "funding_rate": null,
+    "open_interest": 7997192396.7225,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779231600000,
+    "funding_rate": null,
+    "open_interest": 7967705801.576899,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779235200000,
+    "funding_rate": 3.254e-05,
+    "open_interest": 7974657868.8,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779238800000,
+    "funding_rate": null,
+    "open_interest": 7971100228.0595,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779242400000,
+    "funding_rate": null,
+    "open_interest": 7932450416.309166,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779246000000,
+    "funding_rate": null,
+    "open_interest": 7894279626.636,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779249600000,
+    "funding_rate": null,
+    "open_interest": 7906075347.2064,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779253200000,
+    "funding_rate": null,
+    "open_interest": 7901475357.244833,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779256800000,
+    "funding_rate": null,
+    "open_interest": 7945846395.410568,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779260400000,
+    "funding_rate": null,
+    "open_interest": 7966549254.6471,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779264000000,
+    "funding_rate": 7.983e-05,
+    "open_interest": 7937548199.25,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779267600000,
+    "funding_rate": null,
+    "open_interest": 8010100484.144,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779271200000,
+    "funding_rate": null,
+    "open_interest": 7981170112.251747,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779274800000,
+    "funding_rate": null,
+    "open_interest": 7991564365.88057,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779278400000,
+    "funding_rate": null,
+    "open_interest": 7979865628.14438,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779282000000,
+    "funding_rate": null,
+    "open_interest": 7979686373.6196,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779285600000,
+    "funding_rate": null,
+    "open_interest": 7841367596.7768,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779289200000,
+    "funding_rate": null,
+    "open_interest": 7886359986.237892,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779292800000,
+    "funding_rate": 6.858e-05,
+    "open_interest": 7926829106.408689,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779296400000,
+    "funding_rate": null,
+    "open_interest": 7876184044.055871,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779300000000,
+    "funding_rate": null,
+    "open_interest": 7908047227.31643,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779303600000,
+    "funding_rate": null,
+    "open_interest": 7881365830.087,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779307200000,
+    "funding_rate": null,
+    "open_interest": 7927354451.8772,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779310800000,
+    "funding_rate": null,
+    "open_interest": 7923635533.8709,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779314400000,
+    "funding_rate": null,
+    "open_interest": 7883651559.033,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779318000000,
+    "funding_rate": null,
+    "open_interest": 7876810322.6406,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779321600000,
+    "funding_rate": 1.925e-05,
+    "open_interest": 7874378647.925912,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779325200000,
+    "funding_rate": null,
+    "open_interest": 7945399569.233448,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779328800000,
+    "funding_rate": null,
+    "open_interest": 7940610738.279949,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779332400000,
+    "funding_rate": null,
+    "open_interest": 7951022907.57244,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779336000000,
+    "funding_rate": null,
+    "open_interest": 7957316557.695678,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779339600000,
+    "funding_rate": null,
+    "open_interest": 7931403460.811387,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779343200000,
+    "funding_rate": null,
+    "open_interest": 7905999537.909795,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779346800000,
+    "funding_rate": null,
+    "open_interest": 7874127331.4968605,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779350400000,
+    "funding_rate": 4.003e-05,
+    "open_interest": 7895319092.346777,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779354000000,
+    "funding_rate": null,
+    "open_interest": 7902627626.176,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779357600000,
+    "funding_rate": null,
+    "open_interest": 7879479246.398926,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779361200000,
+    "funding_rate": null,
+    "open_interest": 7798930045.115,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779364800000,
+    "funding_rate": null,
+    "open_interest": 7809589232.1018,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779368400000,
+    "funding_rate": null,
+    "open_interest": 7818180858.984,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779372000000,
+    "funding_rate": null,
+    "open_interest": 7812864488.6064,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779375600000,
+    "funding_rate": null,
+    "open_interest": 7814184890.347705,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779379200000,
+    "funding_rate": 6.13e-05,
+    "open_interest": 7852399213.6119795,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779382800000,
+    "funding_rate": null,
+    "open_interest": 7856027498.7728,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779386400000,
+    "funding_rate": null,
+    "open_interest": 7952746540.5117,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779390000000,
+    "funding_rate": null,
+    "open_interest": 7813800161.9088,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779393600000,
+    "funding_rate": null,
+    "open_interest": 7827128127.126,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779397200000,
+    "funding_rate": null,
+    "open_interest": 7819917531.612,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779400800000,
+    "funding_rate": null,
+    "open_interest": 7821873546.308,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779404400000,
+    "funding_rate": null,
+    "open_interest": 7822328364.2623825,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779408000000,
+    "funding_rate": 3.564e-05,
+    "open_interest": 7812745374.4992,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779411600000,
+    "funding_rate": null,
+    "open_interest": 7794261652.1952,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779415200000,
+    "funding_rate": null,
+    "open_interest": 7814849084.509,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779418800000,
+    "funding_rate": null,
+    "open_interest": 7830789262.600146,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779422400000,
+    "funding_rate": null,
+    "open_interest": 7844254197.9963,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779426000000,
+    "funding_rate": null,
+    "open_interest": 7833201136.48,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779429600000,
+    "funding_rate": null,
+    "open_interest": 7802039136.8,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779433200000,
+    "funding_rate": null,
+    "open_interest": 7781839284.910423,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779436800000,
+    "funding_rate": -8.2e-06,
+    "open_interest": 7788217120.152,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779440400000,
+    "funding_rate": null,
+    "open_interest": 7773982050.1728,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779444000000,
+    "funding_rate": null,
+    "open_interest": 7783972708.5757,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779447600000,
+    "funding_rate": null,
+    "open_interest": 7793600086.3677,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779451200000,
+    "funding_rate": null,
+    "open_interest": 7805238613.005753,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779454800000,
+    "funding_rate": null,
+    "open_interest": 7814234170.8452,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779458400000,
+    "funding_rate": null,
+    "open_interest": 7825618945.678,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779462000000,
+    "funding_rate": null,
+    "open_interest": 7972475275.647539,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779465600000,
+    "funding_rate": 2.891e-05,
+    "open_interest": 8015228000.653335,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779469200000,
+    "funding_rate": null,
+    "open_interest": 8034309882.8394,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779472800000,
+    "funding_rate": null,
+    "open_interest": 8008451121.627,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779476400000,
+    "funding_rate": null,
+    "open_interest": 7965623014.590784,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779480000000,
+    "funding_rate": null,
+    "open_interest": 7945498918.247,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779483600000,
+    "funding_rate": null,
+    "open_interest": 7960042945.416916,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779487200000,
+    "funding_rate": null,
+    "open_interest": 7955361101.62395,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779490800000,
+    "funding_rate": null,
+    "open_interest": 7948833523.0479,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779494400000,
+    "funding_rate": 1.783e-05,
+    "open_interest": 7919307702.4762,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779498000000,
+    "funding_rate": null,
+    "open_interest": 7939501440.464,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779501600000,
+    "funding_rate": null,
+    "open_interest": 7967760799.711052,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779505200000,
+    "funding_rate": null,
+    "open_interest": 7962780503.576629,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779508800000,
+    "funding_rate": null,
+    "open_interest": 7977234268.5948,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779512400000,
+    "funding_rate": null,
+    "open_interest": 7960403539.146382,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779516000000,
+    "funding_rate": null,
+    "open_interest": 7959787647.675993,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779519600000,
+    "funding_rate": null,
+    "open_interest": 7930408504.8412,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779523200000,
+    "funding_rate": 1.025e-05,
+    "open_interest": 7767476948.6808,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779526800000,
+    "funding_rate": null,
+    "open_interest": 7831382885.865,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779530400000,
+    "funding_rate": null,
+    "open_interest": 7855611943.2094,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779534000000,
+    "funding_rate": null,
+    "open_interest": 7859466849.6868,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779537600000,
+    "funding_rate": null,
+    "open_interest": 7861591426.690493,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  },
+  {
+    "timestamp": 1779541200000,
+    "funding_rate": null,
+    "open_interest": 7834728375.2757,
+    "liq_long_usd": null,
+    "liq_short_usd": null
+  }
+]
