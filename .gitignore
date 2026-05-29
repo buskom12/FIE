@@ -1,0 +1,42 @@
+# === Секреты и переменные окружения ===
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+secrets/
+credentials/
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+
+# === IDE ===
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# === Базы данных ===
+*.db
+*.sqlite3
+data/
+logs/
+*.log
+
+# === Docker ===
+.docker/
+
+# === Qdrant ===
+qdrant_storage/
